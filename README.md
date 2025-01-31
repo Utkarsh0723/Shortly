@@ -39,7 +39,6 @@ python-dotenv
 os
 
 # TEAM MEMBERS :
-1.  Vivek Agarwal
+1.  Utkarsh Tripathi
 2.  Madhav Garg
-3.  Ujjwal Singh
-4.  Ronit Vats
+
